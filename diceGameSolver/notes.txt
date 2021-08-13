@@ -9,6 +9,10 @@ Ideas:
 		Use permutaions in CPP to rearrange the array to get all possible outcomes
 		Now, I just need to find a way to do the same as the Python Reference and 
 		include the operators inbetween.
+
+		More info found on Permutations in the 8/13/21 Changelog
+		Links also in Sources
+		
 	}
 
 Changelog:
