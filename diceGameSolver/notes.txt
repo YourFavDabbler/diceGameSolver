@@ -24,18 +24,18 @@ Changelog:
 
     I also found the following:
 
-    https://gist.github.com/perrygeo/7161632 
-           ^^^ "Python reference" ^^^ 
-	The reference above only proves that it is 
-	possible to insert operations inbetween random 
-	integers 1-6 and get a functional expression. 
-	Although, it doesn't give a way to compare all 
-	the possible outcomes to determine the best if 
-	none of the outcomes is exactly the number. I 
-	need to find a way to code in a backdoor that 
-	will calculate the closest number if an exact 
-	number cannot be reached. Along with, coding in 
-	exponentiation and roots.
+		https://gist.github.com/perrygeo/7161632 
+			^^^ "Python reference" ^^^ 
+		The reference above only proves that it is 
+		possible to insert operations inbetween random 
+		integers 1-6 and get a functional expression. 
+		Although, it doesn't give a way to compare all 
+		the possible outcomes to determine the best if 
+		none of the outcomes is exactly the number. I 
+		need to find a way to code in a backdoor that 
+		will calculate the closest number if an exact 
+		number cannot be reached. Along with, coding in 
+		exponentiation and roots.
     
 	I need to see if its possible to put the operators in an array 
 	and them permutate those along with the values of the d6's 
