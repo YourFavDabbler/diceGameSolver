@@ -6,6 +6,9 @@ Arrays
     Use indexes to repeat operations with different integers?
     Requires use of arrays
     #include <array>
+	Use permutaions in CPP to rearrange the array to get all possible outcomes
+	Now, I just need to find a way to do the same as the Python Reference and 
+	include the operators inbetween.
 }
 
 Changelog:
@@ -30,4 +33,12 @@ Changelog:
 	number cannot be reached. Along with, coding in 
 	exponentiation and roots.
     
+	I need to see if its possible to put the operators in an array 
+	and them permutate those along with the values of the d6's 
+	to get the product of the d12's.
+	I would have to add the backdoor to the closest value after the calculations
+	of the permutations and do (Product - (value of expression)) and whichever one
+	has the lowest value is the expression that I have to print to the user.
+
+	Holy shit, my brain hurts.
 }
