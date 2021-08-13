@@ -69,12 +69,18 @@ Changelog:
 Sources:
 
 {
+	GitHub Repository of Python Reference
+	https://gist.github.com/perrygeo/7161632
+	
 	Trying to Simulate Python Combinations in C++ with Next Permutation
 	https://stackoverflow.com/questions/13423383/trying-to-simulate-python-combinations-in-c-with-next-permutation
 
 	Next Permutation in C++
 	https://www.cplusplus.com/reference/algorithm/next_permutation/
 
+	Testing Permutations in C++
+	cpp.sh/6oce7
+	
 	Python Itertools Descprition to help with Porting to C++
 	https://docs.python.org/3/library/itertools.html
 }
