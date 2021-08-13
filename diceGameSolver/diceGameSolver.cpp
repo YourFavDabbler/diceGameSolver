@@ -106,7 +106,7 @@ int main()
 	   ^^^ "Python reference" ^^^ 
 	   The reference above only proves that it is 
 	   possible to insert operations inbetween random 
-	   integers 1-6 and get a functional answer. 
+	   integers 1-6 and get a functional expression. 
 	   Although, it doesn't give a way to compare all 
 	   the possible outcomes to determine the best if 
 	   none of the outcomes is exactly the number. I 
