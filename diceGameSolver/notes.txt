@@ -8,7 +8,7 @@ Arrays
     #include <array>
 }
 
-Changelog
+Changelog:
 
 8/13/21
 {
