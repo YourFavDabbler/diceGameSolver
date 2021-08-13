@@ -102,9 +102,19 @@ int main()
 	}
 
 
-
+	/* https://gist.github.com/perrygeo/7161632 
+	   ^^^ "Python reference" ^^^ 
+	   The reference above only proves that it is 
+	   possible to insert operations inbetween random 
+	   integers 1-6 and get a functional answer. 
+	   Although, it doesn't give a way to compare all 
+	   the possible outcomes to determine the best if 
+	   none of the outcomes is exactly the number. I 
+	   need to find a way to code in a backdoor that 
+	   will calculate the closest number if an exact 
+	   number cannot be reached. Along with, coding in 
+	   exponentiation and roots. */
 
 
 
 }
-
