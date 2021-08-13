@@ -59,7 +59,7 @@ Changelog:
 
 
 	Holy shit, my brain hurts.
-	}
+}
 
 Sources:
 
