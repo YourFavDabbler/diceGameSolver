@@ -10,15 +10,8 @@ int main()
 
 	//Choosing which side of the program to use. Either Random Game or one the User Chooses
 
-	int choice;
-	std::cout << "Would to like to play the game or find the best outcome of an already existing game?" << std::endl;
+	std::cout << "Would you like to play a new game or find the best outcome of an already existing game?" << std::endl;
 	std::cout << "Press 1 for a New Game and 2 for an Existing Game." << std::endl;
-	int d12num1;
-	int d12num2;
-	int d6num1;
-	int d6num2;
-	int d6num3;
-	double product;
 	std::cin >> choice;
 
 
@@ -76,7 +69,7 @@ int main()
 		} while (d12num1 > 12 || d12num1 < 1 || d12num2 > 12 || d12num2 < 1);
 		//Repeats until the user puts in the correct response
 
-			// Needs else if statements for if a number is under 1 or a large number above 12
+			// Needs statements for if a number is under 1 or a large number above 12
 
 
 		std::cout << d12num1 << " and " << d12num2 << std::endl;
@@ -93,28 +86,13 @@ int main()
 		} while (d6num1 > 6 || d6num1 < 1 || d6num2 > 6 || d6num2 < 1 || d6num3 > 6 || d6num3 < 1);
 	//Repeats until the user puts in the correct response
 
-			// Needs else if statements for if a number is under 1 or a large number above 6
+			// Needs statements for if a number is under 1 or a large number above 6
 
 		break;
 
 	}
 
 	}
-
-
-	/* https://gist.github.com/perrygeo/7161632 
-	   ^^^ "Python reference" ^^^ 
-	   The reference above only proves that it is 
-	   possible to insert operations inbetween random 
-	   integers 1-6 and get a functional expression. 
-	   Although, it doesn't give a way to compare all 
-	   the possible outcomes to determine the best if 
-	   none of the outcomes is exactly the number. I 
-	   need to find a way to code in a backdoor that 
-	   will calculate the closest number if an exact 
-	   number cannot be reached. Along with, coding in 
-	   exponentiation and roots. */
-
 
 
 }

@@ -1,6 +1,33 @@
+
+Ideas:
+
 Arrays
 {
     Use indexes to repeat operations with different integers?
     Requires use of arrays
     #include <array>
+}
+
+Changelog
+
+8/13/21
+{
+    I have added the header file to include the declarations of the 
+    int value and corrected spelling errors
+
+    I also found the following:
+
+    https://gist.github.com/perrygeo/7161632 
+           ^^^ "Python reference" ^^^ 
+	The reference above only proves that it is 
+	possible to insert operations inbetween random 
+	integers 1-6 and get a functional expression. 
+	Although, it doesn't give a way to compare all 
+	the possible outcomes to determine the best if 
+	none of the outcomes is exactly the number. I 
+	need to find a way to code in a backdoor that 
+	will calculate the closest number if an exact 
+	number cannot be reached. Along with, coding in 
+	exponentiation and roots.
+    
 }
