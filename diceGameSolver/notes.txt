@@ -1,0 +1,6 @@
+Arrays
+{
+    Use indexes to repeat operations with different integers?
+    Requires use of arrays
+    #include <array>
+}
