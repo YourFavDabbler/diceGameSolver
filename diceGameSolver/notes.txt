@@ -1,15 +1,15 @@
 
 Ideas:
 
-Arrays
-{
-    Use indexes to repeat operations with different integers?
-    Requires use of arrays
-    #include <array>
-	Use permutaions in CPP to rearrange the array to get all possible outcomes
-	Now, I just need to find a way to do the same as the Python Reference and 
-	include the operators inbetween.
-}
+	Arrays
+	{
+		Use indexes to repeat operations with different integers?
+		Requires use of arrays
+		#include <array>
+		Use permutaions in CPP to rearrange the array to get all possible outcomes
+		Now, I just need to find a way to do the same as the Python Reference and 
+		include the operators inbetween.
+	}
 
 Changelog:
 
@@ -39,6 +39,37 @@ Changelog:
 	I would have to add the backdoor to the closest value after the calculations
 	of the permutations and do (Product - (value of expression)) and whichever one
 	has the lowest value is the expression that I have to print to the user.
+	
+				cpp.sh/6oce7
+
+		// next_permutation example
+		#include <iostream>     // std::cout
+		#include <algorithm>    // std::next_permutation, std::sort
+
+		int main () {
+		int myints[] = {1,2,3,4,5,6};
+
+		std::sort (myints,myints+6);
+
+		do {
+			std::cout << myints[0] << ' ' << myints[1] << ' ' << myints[2] << ' ' << myints[3] << ' ' << myints[4] << ' ' << myints[5] << '\n';
+		} while ( std::next_permutation(myints,myints+6) );
+
+  		return 0;
+
 
 	Holy shit, my brain hurts.
+	}
+
+Sources:
+
+{
+	Trying to Simulate Python Combinations in C++ with Next Permutation
+	https://stackoverflow.com/questions/13423383/trying-to-simulate-python-combinations-in-c-with-next-permutation
+
+	Next Permutation in C++
+	https://www.cplusplus.com/reference/algorithm/next_permutation/
+
+	Python Itertools Descprition to help with Porting to C++
+	https://docs.python.org/3/library/itertools.html
 }
