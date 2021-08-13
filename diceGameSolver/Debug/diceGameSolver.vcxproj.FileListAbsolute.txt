@@ -1,4 +1,0 @@
-E:\Documents\Projects\Source\repos\diceGameSolver\Debug\diceGameSolver.exe
-E:\Documents\Projects\Source\repos\diceGameSolver\Debug\diceGameSolver.pdb
-F:\Documents\Projects\Source\repos\diceGameSolver\Debug\diceGameSolver.exe
-F:\Documents\Projects\Source\repos\diceGameSolver\Debug\diceGameSolver.pdb
