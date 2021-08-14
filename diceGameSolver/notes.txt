@@ -66,6 +66,14 @@ Changelog:
 	I think I've done enough for one day. My brain can't process anything right now.
 }
 
+8/14/21
+{
+	Getting started on permutation studies and indexes. They are gonna be required
+	to get my program up and running. I can't seem to remember my ideas with the indexes though.
+	Something about the outputs of the permutation functions having to be void functions because
+	I already have my main function, but thats a given. I don't know. I'll remember eventually.
+}
+
 Sources:
 
 {
