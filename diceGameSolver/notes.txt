@@ -85,6 +85,9 @@ Changelog:
 
 	Trying to learn Void Functions. I am having a hard time understanding how to get Main and 
 	Arithmetic to communicate properly in an optimized way. I am gonna be stuck on this for a bit.
+
+	cpp.sh/6ydvc
+	Got permutations to work with localized variables in diceGameSolver.cpp and diceGameSolver_V2.cpp
 }
 
 Sources:
@@ -101,6 +104,9 @@ Sources:
 
 	Testing Permutations in C++
 	cpp.sh/6oce7
+
+	Working Permutations in C++ with Localized variables
+	cpp.sh/6ydvc
 	
 	Python Itertools Descprition to help with Porting to C++
 	https://docs.python.org/3/library/itertools.html
