@@ -110,4 +110,10 @@ Sources:
 	
 	Python Itertools Descprition to help with Porting to C++
 	https://docs.python.org/3/library/itertools.html
+
+	Help with Functions
+	https://www.tutorialspoint.com/cplusplus/cpp_functions.htm
+	https://www.tutorialspoint.com/cplusplus/cpp_static_members.htm
+	https://stackoverflow.com/questions/13097488/passing-value-obtained-in-one-function-to-another-function-c-language
+	
 }
