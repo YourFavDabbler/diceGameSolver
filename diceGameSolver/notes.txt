@@ -72,6 +72,19 @@ Changelog:
 	to get my program up and running. I can't seem to remember my ideas with the indexes though.
 	Something about the outputs of the permutation functions having to be void functions because
 	I already have my main function, but thats a given. I don't know. I'll remember eventually.
+
+	I'm gonna write out the diceGameReference.py files and break it down in my notebook to
+	fully understand what it is doing so that I can port it over to C++.
+
+	I'm also attempting to implement Void Functions to help me learn how they work and so on. 
+	Let's see how this goes. It is included in diceGameSolver_V2.cpp
+
+	I need to create an array of all the d6's and permutate them to get 3! to print out. This is
+	just to see if I can get it to function properly. I may have to do some testing on cpp.sh to 
+	fully learn the extent of arrays and permutations.
+
+	Trying to learn Void Functions. I am having a hard time understanding how to get Main and 
+	Arithmetic to communicate properly in an optimized way. I am gonna be stuck on this for a bit.
 }
 
 Sources:

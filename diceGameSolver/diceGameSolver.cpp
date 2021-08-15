@@ -8,8 +8,15 @@
 int main()
 {
 
-	//Choosing which side of the program to use. Either Random Game or one the User Chooses
-
+	int choice;
+	double product;
+	int d12num1;
+	int d12num2;
+	int d6num1;
+	int d6num2;
+	int d6num3;
+	
+		//Choosing which side of the program to use. Either Random Game or and Existing Game
 	std::cout << "Would you like to play a new game or find the best outcome of an already existing game?" << std::endl;
 	std::cout << "Press 1 for a New Game and 2 for an Existing Game." << std::endl;
 	std::cin >> choice;
