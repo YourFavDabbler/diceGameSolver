@@ -90,6 +90,12 @@ Changelog:
 	Got permutations to work with localized variables in diceGameSolver.cpp and diceGameSolver_V2.cpp
 }
 
+8/15/21
+{
+          May have to use booleans to compare the Value of Expression to the Product.
+	
+}
+
 Sources:
 
 {
