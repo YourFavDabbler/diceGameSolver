@@ -92,8 +92,14 @@ Changelog:
 
 8/15/21
 {
-          May have to use booleans to compare the Value of Expression to the Product.
+    May have to use booleans to compare the Value of Expression to the Product.
 	
+}
+
+9/3/21
+{
+	I'm thinking about rewriting all the code to use classes like Public and Private to do more object oriented coding.
+	It may end up working better for me in the end
 }
 
 Sources:
