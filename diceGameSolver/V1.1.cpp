@@ -4,7 +4,7 @@
 #include <ctime>
 #include <cmath>
 #include <algorithm>
-#include <arithmetic.h>
+#include "arithmetic.h"
 
 int main()
 {
@@ -92,4 +92,5 @@ int main()
         std::cout << d6s;
 	}
 	}
+	
 }
